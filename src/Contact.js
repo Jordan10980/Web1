@@ -103,7 +103,7 @@ function Contact() {
                 {/* Show different links based on the user's login status */}
                 {isLoggedIn ? (
                 <>
-                    <Link to="/Web1" class="nav-link">Accueil</Link>
+                    <Link to="/Web" class="nav-link">Accueil</Link>
                     <Link to="/api" class="nav-link">Carte</Link>
                     <Link to="/contact" class="nav-link">Contact</Link>
                     <Link to="/apropos" class="nav-link">A propos</Link>
@@ -115,7 +115,7 @@ function Contact() {
                 </>
                 ) : (
                 <>
-                    <Link to="/Web1" class="nav-link">Accueil</Link>
+                    <Link to="/Web" class="nav-link">Accueil</Link>
                     <Link to="/api" class="nav-link">Carte</Link>
                     <Link to="/contact" class="nav-link">Contact</Link>
                     <Link to="/apropos" class="nav-link">A propos</Link>
