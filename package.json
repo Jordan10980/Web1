@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jordan10980.github.io/Web/",
+  "homepage": "https://jordan10980.github.io/Web1/",
   "dependencies": {
     "@chakra-ui/react": "^2.4.6",
     "@testing-library/jest-dom": "^5.16.5",

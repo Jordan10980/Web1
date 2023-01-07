@@ -51,7 +51,7 @@ function App() {
       
     
       <Routes>
-        <Route path="/Web" element={<Accueil/>}/>
+        <Route path="/Web1" element={<Accueil/>}/>
         <Route path="/connexion" element={<Connexion/>}/>
         <Route path="/inscription" element={<Inscription/>}/>
         <Route path="/editionprofil" element={<Editionprofil/>}/>
