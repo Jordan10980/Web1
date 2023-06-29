@@ -16,7 +16,16 @@ Site permettant le suivi en temps reel des avions dans le monde.
 5- Aller dans le terminal et y ecrire:
     npm start
 ```
-    
+
+```bash
+Dans votre votre serveur local exemple XAMPP
+Coupez et coller le fichier php
+```
+
+```bash
+Dans votre SGBD favori exemple PhpMyAdmin
+Importez la base de donnée nommée Bdd.sql
+```
 
 
 ## Acceder au site en ligne 
